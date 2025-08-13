@@ -1,10 +1,10 @@
-import logo from './logo.svg';
+
 import './App.css';
 import React from 'react';
 import Navbar from './Navbar';
 import Heading from './Heading';
 import Footer from './Footer';
-import Card  from './Card'; 
+
 import Cards from './Cards';
 function App() {
    const cardData = [
